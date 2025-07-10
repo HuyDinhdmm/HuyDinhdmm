@@ -2,7 +2,7 @@
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36A90B&random=true&width=485&lines=Hello+Hello+!!!+You+can+call+me+Tinkasu" alt="Typing SVG" style="vertical-align: middle;" />
   </a>
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMG90ZWY5d3o0a3ExcW10NmtqYnVsb2duMXZ5b3RmbHZ0aGhtbWk1MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qBJW7q74luwjdCHdw3/giphy.gif" width="150" alt="Gato Giovannamagnusjunior Sticker" style="vertical-align: middle; margin-left: 16px;" />
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmFqNGNxMTdyZjl2bnl6YzBocXp3MTYzeHd4ZGFza292NXUwanFjNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/M4NykXxUE0HAcK7UJ6/giphy.gif" width="150" alt="Gato Giovannamagnusjunior Sticker" style="vertical-align: middle; margin-left: 16px;" />
 </p>
 
 
